@@ -21,7 +21,8 @@ public class Cliente {
     @SequenceGenerator(
             name = "SQ_CLIENTE_PIZZARIA",
             sequenceName = "SQ_CLIENTE_PIZZARIA",
-            initialValue = 1, allocationSize = 1
+            initialValue = 1,
+            allocationSize = 1
     )
     @Column(name = "ID_CLIENTE")
     private Long id;
