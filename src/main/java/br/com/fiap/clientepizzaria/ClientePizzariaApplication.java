@@ -19,7 +19,7 @@ public class ClientePizzariaApplication {
 		String hello = """
 				Bom dia! 2TDSPG
 								
-				Seja bem-vindo à Benezinho Pizzaria
+				Seja bem-vindo à Benezinho's Pizzaria
 				""";
 		return hello;
 	}
